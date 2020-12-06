@@ -16,7 +16,7 @@ namespace SDPTask4_test
             string name = Console.ReadLine();
             Console.Write("Enter your age: ");
             string age = Console.ReadLine();
-            Console.WriteLine("Hello {0}, your age is {1}. Glad to see you!", name, age);
+            Console.WriteLine("Hello {0}, your age is {1}. So glad to see you!", name, age);
             Console.ReadLine();
 
             // Go to http://aka.ms/dotnet-get-started-console to continue learning how to build a console app! 
